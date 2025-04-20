@@ -1,20 +1,21 @@
-<<<<<<< HEAD
 # flutter_despesas
 =======
-# expenses
+Aplicativo Flutter para controle simples de **gastos pessoais**, permitindo adicionar, visualizar e remover despesas de forma prática.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🖼️ Preview do App
+https://github.com/user-attachments/assets/5bd1b553-435a-418f-9257-d89798d725e1
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Adicionar novas despesas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 4e8f6d2 (Commit 2)
+
+
+
+- ✅ Listar despesas com valor, título e data
+- ✅ Remover despesas
+- ✅ Interface responsiva e leve
+- ✅ Compatível com Android
